@@ -50,3 +50,19 @@ Recebe as notas de duas provas e de um trabalho, calcula a média e indica se o 
 - Calcula a média das notas.
 - Indica se o aluno está aprovado ou reprovado.
 - Exibe a média e a situação em uma janela.
+
+## Calculadora de Aposentadoria
+
+Calcula se uma pessoa já pode se aposentar ou quantos anos faltam para isso, com base na idade, sexo e anos de contribuição informados pelo usuário. As regras utilizadas são:
+
+- Para mulheres: mínimo de 62 anos de idade ou 15 anos de contribuição.
+- Para homens: mínimo de 65 anos de idade ou 20 anos de contribuição.
+
+### Funcionalidades
+
+- Solicita ao usuário a idade.
+- Solicita o sexo (M/F).
+- Solicita os anos de contribuição.
+- Verifica se já pode se aposentar por idade ou por tempo de contribuição.
+- Informa se já pode se aposentar ou quantos anos faltam para atingir os requisitos.
+- Exibe o resultado em uma janela.
