@@ -88,3 +88,13 @@ Simula o acesso a um sistema solicitando login e senha. O usuário tem três ten
 - Permite até três tentativas de acesso.
 - Exibe mensagem de erro a cada tentativa incorreta.
 - Exibe mensagem de sucesso ao acertar ou bloqueia o acesso após três falhas.
+
+## Gerador de Tabuada
+
+Gera a tabuada de um número informado pelo usuário, mostrando os resultados de 1 a 10.
+
+### Funcionalidades
+
+- Solicita ao usuário um número inteiro.
+- Gera a tabuada desse número de 1 a 10 usando um loop.
+- Exibe o resultado em uma janela.
