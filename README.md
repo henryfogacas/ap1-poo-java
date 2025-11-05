@@ -66,3 +66,14 @@ Calcula se uma pessoa já pode se aposentar ou quantos anos faltam para isso, co
 - Verifica se já pode se aposentar por idade ou por tempo de contribuição.
 - Informa se já pode se aposentar ou quantos anos faltam para atingir os requisitos.
 - Exibe o resultado em uma janela.
+
+## Circuito de Resistências
+
+Calcula a resistência equivalente de quatro resistências ligadas em série, além de identificar a maior e a menor resistência informada pelo usuário.
+
+### Funcionalidades
+
+- Solicita ao usuário o valor de quatro resistências (em Ohms).
+- Calcula a resistência equivalente (soma das quatro).
+- Identifica a maior e a menor resistência.
+- Exibe os resultados em uma janela.
