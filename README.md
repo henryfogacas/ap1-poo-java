@@ -77,3 +77,14 @@ Calcula a resistência equivalente de quatro resistências ligadas em série, al
 - Calcula a resistência equivalente (soma das quatro).
 - Identifica a maior e a menor resistência.
 - Exibe os resultados em uma janela.
+
+## Sistema de Login
+
+Simula o acesso a um sistema solicitando login e senha. O usuário tem três tentativas para acertar os dados, que devem ser "java8" para login e senha. Mensagens informativas são exibidas a cada tentativa.
+
+### Funcionalidades
+
+- Solicita ao usuário o login e a senha.
+- Permite até três tentativas de acesso.
+- Exibe mensagem de erro a cada tentativa incorreta.
+- Exibe mensagem de sucesso ao acertar ou bloqueia o acesso após três falhas.
