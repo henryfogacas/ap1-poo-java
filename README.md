@@ -39,3 +39,14 @@ Calcula o valor do imposto ITBI de um imóvel, considerando o maior valor entre 
 - Calcula a base de cálculo (maior valor entre transação e venal).
 - Calcula o valor do ITBI.
 - Exibe a base de cálculo e o valor do ITBI em uma janela.
+
+## Sistema de Avaliação
+
+Recebe as notas de duas provas e de um trabalho, calcula a média e indica se o aluno está aprovado (média >= 6) ou reprovado.
+
+### Funcionalidades
+
+- Solicita ao usuário as notas das provas e do trabalho.
+- Calcula a média das notas.
+- Indica se o aluno está aprovado ou reprovado.
+- Exibe a média e a situação em uma janela.
